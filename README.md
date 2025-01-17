@@ -36,9 +36,6 @@ This project assumes that the Python environment is set up according to:
 1. Version: 3.11.10  
 2. The packages in the requirements.txt file found in the project directory are installed with the command:   
    pip install \-r /path/to/requirements.txt  
-3. NOTE: The packages that are most important to replicate this project are validated using this command
-
-<img src="images/image_1.png" alt="Image 1" width="500"/>
 
 ## Database Configuration
 

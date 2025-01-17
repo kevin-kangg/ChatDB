@@ -1,0 +1,999 @@
+work_year,person_gender,experience_level,employment_type,job_title,salary,income_class,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+2021,female,MI,FT,Data Scientist,30400000,upper,CLP,40038,CL,100,CL,L
+2021,female,MI,FT,BI Data Analyst,11000000,upper,HUF,36259,HU,50,US,L
+2020,female,MI,FT,Data Scientist,11000000,upper,HUF,35735,HU,50,HU,L
+2021,female,MI,FT,ML Engineer,8500000,upper,JPY,77364,JP,50,JP,S
+2022,female,SE,FT,Lead Machine Learning Engineer,7500000,upper,INR,95386,IN,50,IN,L
+2021,female,MI,FT,ML Engineer,7000000,upper,JPY,63711,JP,50,JP,S
+2021,female,SE,FT,Data Science Manager,7000000,upper,INR,94665,IN,50,IN,L
+2022,female,EN,FT,Data Scientist,6600000,upper,HUF,17684,HU,100,HU,M
+2022,male,EX,FT,Head of Machine Learning,6000000,upper,INR,76309,IN,50,IN,L
+2022,female,EN,FT,Research Engineer,5500000,upper,JPY,41809,JP,50,JP,L
+2023,female,MI,FT,Head of Data Science,5000000,upper,INR,60805,IN,50,IN,L
+2023,female,EN,FT,AI Programmer,4950806,upper,INR,60207,IN,0,IN,S
+2021,female,SE,FT,Machine Learning Engineer,4900000,upper,INR,66265,IN,0,IN,L
+2022,male,SE,FT,Lead Data Scientist,4460000,upper,INR,56723,IN,0,IN,L
+2020,male,EN,FT,Data Engineer,4450000,upper,JPY,41689,JP,100,JP,S
+2022,male,MI,FT,Data Scientist,4200000,upper,INR,53416,IN,100,ID,L
+2023,male,EN,FT,Applied Machine Learning Scientist,4000000,upper,INR,48644,IN,100,DE,L
+2021,female,SE,FT,Data Scientist,4000000,upper,INR,54094,IN,100,IN,L
+2021,female,SE,FT,Data Science Manager,4000000,upper,INR,54094,IN,50,US,L
+2023,female,SE,FT,Data Science Manager,3600000,upper,INR,43779,IN,100,IN,L
+2024,female,MI,FT,Lead Data Analyst,3300000,upper,INR,39615,IN,50,IN,L
+2023,male,MI,FT,Data Science Manager,3200000,upper,INR,38915,IN,50,IN,L
+2023,male,MI,FT,Data Analytics Manager,3200000,upper,INR,38915,IN,50,IN,M
+2023,female,SE,FT,Data Integration Specialist,3000000,upper,INR,36483,IN,50,IN,L
+2022,female,SE,FT,Principal Data Architect,3000000,upper,INR,38154,IN,100,IN,L
+2021,female,SE,FT,Lead Data Scientist,3000000,upper,INR,40570,IN,50,IN,L
+2020,female,MI,FT,Data Scientist,3000000,upper,INR,40481,IN,0,IN,L
+2022,female,MI,FT,Data Engineer,2800000,upper,INR,35610,IN,50,IN,L
+2023,male,MI,FT,NLP Engineer,2700000,upper,INR,32834,IN,100,IN,M
+2022,female,MI,FT,Data Scientist,2500000,upper,INR,31795,IN,100,US,M
+2021,female,MI,FT,Data Scientist,2500000,upper,INR,33808,IN,0,IN,M
+2022,male,MI,FL,Applied Machine Learning Scientist,2400000,upper,INR,30523,IN,100,IN,S
+2022,female,MI,FT,Data Scientist,2400000,upper,INR,30523,IN,100,IN,L
+2024,male,MI,FT,Big Data Engineer,2300000,upper,INR,27611,IN,100,IN,L
+2021,male,EN,FT,Data Engineer,2250000,upper,INR,30428,IN,100,IN,L
+2021,male,EN,FT,Data Scientist,2200000,upper,INR,29751,IN,50,IN,L
+2021,male,EN,FT,Data Scientist,2100000,upper,INR,28399,IN,100,IN,M
+2023,male,EN,FT,AI Research Engineer,2000000,upper,INR,24322,IN,100,CH,L
+2023,male,MI,FT,Machine Learning Software Engineer,2000000,upper,INR,24322,IN,50,IN,L
+2022,female,EN,FT,Data Scientist,1800000,upper,INR,22892,IN,50,IN,M
+2021,female,SE,FT,Machine Learning Engineer,1799997,upper,INR,24342,IN,100,IN,L
+2023,female,EN,FT,Data Analyst,1700000,upper,INR,20673,IN,50,IN,L
+2023,male,MI,FT,Applied Data Scientist,1700000,upper,INR,20673,IN,100,IN,L
+2021,female,MI,FT,Big Data Engineer,1672000,upper,INR,22611,IN,0,IN,L
+2022,male,MI,FT,Machine Learning Engineer,1650000,upper,INR,20984,IN,50,IN,L
+2021,female,EN,FT,Data Engineer,1600000,upper,INR,21637,IN,50,IN,M
+2023,male,SE,FT,AI Scientist,1500000,upper,ILS,417937,IL,0,IL,L
+2023,female,MI,FT,Lead Data Analyst,1500000,upper,INR,18241,IN,50,IN,L
+2021,female,MI,FT,Lead Data Analyst,1450000,upper,INR,19609,IN,100,IN,L
+2023,male,MI,FT,Data Analytics Lead,1440000,upper,INR,17511,IN,50,SG,M
+2022,female,MI,FT,Business Data Analyst,1440000,upper,INR,18314,IN,50,IN,L
+2023,female,EN,FT,Data Engineer,1400000,upper,INR,17025,IN,100,IN,L
+2023,male,MI,FT,Data Scientist,1400000,upper,INR,17025,IN,100,IN,L
+2022,female,MI,FT,Business Data Analyst,1400000,upper,INR,17805,IN,100,IN,M
+2022,male,EN,FT,Data Scientist,1400000,upper,INR,17805,IN,100,IN,M
+2023,female,MI,FT,Product Data Analyst,1350000,upper,INR,16417,IN,100,IN,L
+2021,male,EN,FT,AI Scientist,1335000,upper,INR,18053,IN,100,AS,S
+2023,male,SE,FT,Data Analyst,1300000,upper,INR,15809,IN,100,IN,S
+2022,female,MI,FT,Computer Vision Engineer,1250000,upper,INR,15897,IN,100,IN,M
+2021,male,MI,FT,Data Analyst,1250000,upper,INR,16904,IN,50,IN,L
+2021,female,MI,FT,Data Scientist,1250000,upper,INR,16904,IN,100,IN,S
+2021,female,EN,FT,Big Data Engineer,1200000,upper,INR,16228,IN,100,IN,L
+2023,male,EX,FT,Data Scientist,1050000,upper,NOK,100416,NO,50,NO,S
+2023,female,SE,FT,Data Science Consultant,1000000,upper,THB,29301,TH,50,TH,M
+2023,female,MI,FT,Data Analyst,866000,upper,PHP,15680,PH,50,PH,L
+2023,male,MI,FT,Data Scientist,840000,upper,THB,24613,TH,50,TH,L
+2024,female,MI,FT,AI Architect,800000,upper,USD,800000,CA,100,CA,M
+2023,male,SE,FT,Data Scientist,800000,upper,NOK,76508,NO,50,NO,S
+2024,male,EN,FT,Data Analyst,774000,upper,USD,774000,MX,0,MX,M
+2024,female,SE,FT,Analytics Engineer,750000,upper,USD,750000,US,0,US,M
+2024,male,MI,FT,Machine Learning Scientist,750000,upper,USD,750000,US,0,US,M
+2024,female,SE,FT,Data Analyst,750000,upper,USD,750000,US,0,US,M
+2024,female,MI,FT,Machine Learning Scientist,750000,upper,USD,750000,US,0,US,M
+2023,female,MI,FT,Machine Learning Scientist,750000,upper,USD,750000,US,0,US,M
+2023,male,MI,FT,Machine Learning Engineer,750000,upper,USD,750000,US,0,US,M
+2023,male,MI,FT,Data Engineer,750000,upper,USD,750000,US,0,US,M
+2023,female,SE,FT,Data Scientist,750000,upper,USD,750000,US,0,US,M
+2024,female,MI,FT,Machine Learning Scientist,720000,upper,USD,720000,US,0,US,M
+2024,female,SE,FT,Data Scientist,720000,upper,USD,720000,US,100,US,M
+2024,female,MI,FT,Analytics Engineer,720000,upper,USD,720000,US,0,US,M
+2024,female,SE,FT,Analytics Engineer,720000,upper,USD,720000,US,0,US,M
+2024,female,SE,FT,Data Scientist,720000,upper,USD,720000,US,0,US,M
+2024,male,MI,FT,Research Engineer,720000,upper,USD,720000,US,0,US,M
+2024,female,MI,FT,Research Scientist,720000,upper,USD,720000,US,0,US,M
+2024,male,MI,FT,Research Engineer,720000,upper,USD,720000,US,0,US,M
+2020,male,SE,FT,Data Engineer,720000,upper,MXN,33511,MX,0,MX,S
+2023,male,SE,FT,Analytics Engineer,700000,upper,USD,700000,US,100,US,M
+2023,male,MI,FT,Analytics Engineer,700000,upper,USD,700000,US,100,US,M
+2023,male,MI,FT,Machine Learning Software Engineer,627000,upper,ZAR,34482,ZA,50,ZA,L
+2024,female,SE,FT,Research Scientist,600000,upper,USD,600000,US,0,US,M
+2024,female,SE,FT,Prompt Engineer,600000,upper,USD,600000,US,0,US,M
+2024,female,SE,FT,Research Engineer,600000,upper,USD,600000,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,550000,upper,USD,550000,US,0,US,M
+2024,female,SE,FT,Machine Learning Engineer,550000,upper,USD,550000,US,0,US,M
+2024,male,MI,FT,ML Engineer,530000,upper,USD,530000,US,0,US,M
+2023,male,MI,FT,Data Scientist,510000,upper,HKD,65058,HK,0,HK,L
+2024,male,SE,FT,Research Scientist,500000,upper,USD,500000,US,100,US,M
+2024,male,SE,FT,Research Scientist,500000,upper,USD,500000,US,100,US,M
+2024,female,SE,FT,Research Scientist,484000,upper,USD,484000,US,100,US,M
+2023,female,EX,FT,Data Engineer,465000,upper,USD,465000,US,0,US,M
+2024,female,SE,FT,Research Engineer,450000,upper,USD,450000,US,0,US,M
+2020,male,MI,FT,Research Scientist,450000,upper,USD,450000,US,0,US,M
+2024,female,SE,FT,AI Architect,449000,upper,USD,449000,US,0,US,M
+2024,male,EX,FT,Head of Machine Learning,448000,upper,USD,448000,US,100,US,M
+2024,female,MI,FT,Research Engineer,440000,upper,USD,440000,US,0,US,M
+2024,male,MI,FT,Research Engineer,440000,upper,USD,440000,US,0,US,M
+2024,male,MI,FT,ML Engineer,440000,upper,USD,440000,US,0,US,M
+2024,male,MI,FT,Research Engineer,440000,upper,USD,440000,US,0,US,M
+2024,female,SE,FT,Research Scientist,440000,upper,USD,440000,US,0,US,M
+2024,male,MI,FT,Research Engineer,440000,upper,USD,440000,US,0,US,M
+2024,female,MI,FT,Research Scientist,440000,upper,USD,440000,US,0,US,M
+2024,male,SE,FT,Research Engineer,440000,upper,USD,440000,US,0,US,M
+2024,female,MI,FT,Research Engineer,440000,upper,USD,440000,US,0,US,M
+2024,male,MI,FT,Research Engineer,440000,upper,USD,440000,US,0,US,M
+2024,male,SE,FT,Research Scientist,440000,upper,USD,440000,US,0,US,M
+2024,male,SE,FT,Research Scientist,440000,upper,USD,440000,US,0,US,M
+2024,male,SE,FT,Research Scientist,440000,upper,USD,440000,US,0,US,M
+2024,male,SE,FT,Research Engineer,440000,upper,USD,440000,US,0,US,M
+2024,male,EX,FT,Head of Machine Learning,438000,upper,USD,438000,US,0,US,M
+2021,female,MI,FT,Applied Machine Learning Scientist,423000,upper,USD,423000,US,50,US,L
+2024,male,SE,FT,Machine Learning Engineer,418000,upper,USD,418000,US,100,US,M
+2024,female,SE,FT,Machine Learning Engineer,418000,upper,USD,418000,US,100,US,M
+2021,female,EX,CT,Principal Data Scientist,416000,upper,USD,416000,US,100,US,S
+2024,female,SE,FT,Machine Learning Engineer,414000,upper,USD,414000,US,0,US,M
+2024,female,SE,FT,Applied Scientist,414000,upper,USD,414000,US,0,US,M
+2020,male,SE,FT,Data Scientist,412000,upper,USD,412000,US,100,US,L
+2023,male,SE,FT,Deep Learning Engineer,409500,upper,CAD,303387,CA,100,CA,M
+2024,male,EX,FT,Machine Learning Engineer,408500,upper,USD,408500,US,0,US,M
+2023,male,MI,FT,Research Scientist,405000,upper,USD,405000,US,0,US,L
+2022,female,SE,FT,Data Analytics Lead,405000,upper,USD,405000,US,100,US,L
+2024,female,SE,FT,Data Architect,400000,upper,USD,400000,US,100,US,M
+2024,female,MI,FT,AI Engineer,400000,upper,USD,400000,US,0,US,M
+2024,female,SE,FT,Data Analytics Lead,398900,upper,USD,398900,US,0,US,M
+2024,female,SE,FT,Data Analytics Lead,398900,upper,USD,398900,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,392000,upper,USD,392000,US,0,US,M
+2024,female,SE,FT,Machine Learning Engineer,386100,upper,USD,386100,US,0,US,M
+2024,male,MI,FT,Data Infrastructure Engineer,385000,upper,USD,385000,US,0,US,M
+2024,male,SE,FT,AI Engineer,385000,upper,USD,385000,US,0,US,M
+2024,female,SE,FT,Data Engineer,385000,upper,USD,385000,US,0,US,M
+2024,male,MI,FT,Data Scientist,385000,upper,USD,385000,US,0,US,M
+2023,female,EX,FT,Data Engineer,385000,upper,USD,385000,US,0,US,M
+2023,female,SE,FT,Data Engineer,385000,upper,USD,385000,US,0,US,M
+2023,female,SE,FT,Research Engineer,385000,upper,USD,385000,US,0,US,M
+2023,male,SE,FT,Data Engineer,385000,upper,USD,385000,US,0,US,M
+2023,male,SE,FT,Data Infrastructure Engineer,385000,upper,USD,385000,US,0,US,M
+2023,female,SE,FT,ML Engineer,385000,upper,USD,385000,US,100,US,M
+2023,male,SE,FT,Data Analyst,385000,upper,USD,385000,US,0,US,M
+2023,male,SE,FT,ML Engineer,383910,upper,USD,383910,US,0,US,M
+2024,male,SE,FT,Research Scientist,382320,upper,USD,382320,US,0,US,M
+2024,male,EX,FT,Data Science,381500,upper,USD,381500,US,0,US,M
+2024,male,SE,FT,Data Architect,381500,upper,USD,381500,US,0,US,M
+2022,female,SE,FT,Applied Data Scientist,380000,upper,USD,380000,US,100,US,L
+2023,male,SE,FT,Data Architect,376080,upper,USD,376080,US,100,US,M
+2023,male,EX,FT,Director of Data Science,375500,upper,USD,375500,US,100,US,M
+2022,female,SE,FT,Machine Learning Software Engineer,375000,upper,USD,375000,US,100,US,M
+2022,female,SE,FT,Data Science Tech Lead,375000,upper,USD,375000,US,50,US,L
+2023,female,SE,FT,Research Scientist,374000,upper,USD,374000,US,0,US,M
+2024,male,EX,FT,Head of Machine Learning,373000,upper,USD,373000,US,100,US,M
+2023,male,SE,FT,AI Engineer,372000,upper,USD,372000,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,370000,upper,USD,370000,US,0,US,M
+2023,male,SE,FT,Research Scientist,370000,upper,USD,370000,US,0,US,M
+2023,female,SE,FT,Research Engineer,370000,upper,USD,370000,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,370000,upper,USD,370000,US,0,US,M
+2023,female,SE,FT,Data Engineer,370000,upper,USD,370000,US,0,US,M
+2023,male,SE,FT,Data Scientist,370000,upper,USD,370000,US,0,US,M
+2023,male,SE,FT,Research Engineer,370000,upper,USD,370000,US,0,US,M
+2023,male,SE,FT,Research Scientist,370000,upper,USD,370000,US,0,US,M
+2023,female,SE,FT,Research Engineer,370000,upper,USD,370000,US,0,US,M
+2023,female,SE,FT,Research Engineer,370000,upper,USD,370000,US,0,US,M
+2023,female,SE,FT,Research Scientist,370000,upper,USD,370000,US,0,US,M
+2023,female,SE,FT,Data Scientist,370000,upper,USD,370000,US,0,US,M
+2023,male,SE,FT,Research Scientist,370000,upper,USD,370000,US,0,US,M
+2023,female,SE,FT,ML Engineer,365630,upper,USD,365630,US,0,US,M
+2024,female,SE,FT,Machine Learning Engineer,365100,upper,USD,365100,US,0,US,M
+2024,male,SE,FT,Data Architect,363000,upper,USD,363000,US,0,US,M
+2024,female,SE,FT,Data Architect,363000,upper,USD,363000,US,0,US,M
+2024,female,SE,FT,Research Scientist,360000,upper,USD,360000,US,0,US,M
+2024,male,MI,FT,Research Engineer,360000,upper,USD,360000,US,0,US,M
+2023,male,SE,FT,AI Engineer,360000,upper,USD,360000,US,0,US,M
+2023,female,SE,FT,BI Analyst,360000,upper,TRY,18381,TR,100,TR,L
+2024,male,MI,FT,Research Scientist,359400,upper,USD,359400,US,100,US,M
+2024,female,MI,FT,Research Scientist,359400,upper,USD,359400,US,100,US,M
+2024,male,SE,FT,Data Scientist,359170,upper,USD,359170,US,0,US,M
+2023,female,SE,FT,Data Scientist,359170,upper,USD,359170,US,0,US,M
+2023,male,SE,FT,Data Scientist,359170,upper,USD,359170,US,0,US,M
+2023,female,SE,FT,Data Scientist,359170,upper,USD,359170,US,0,US,M
+2023,female,SE,FT,Data Scientist,359170,upper,USD,359170,US,0,US,M
+2023,female,SE,FT,Data Scientist,359170,upper,USD,359170,US,0,US,M
+2023,female,SE,FT,Data Scientist,359170,upper,USD,359170,US,0,US,M
+2023,female,SE,FT,Data Scientist,359170,upper,USD,359170,US,0,US,M
+2023,male,SE,FT,Data Scientist,359170,upper,USD,359170,US,0,US,M
+2023,male,SE,FT,Data Scientist,359170,upper,USD,359170,US,0,US,M
+2023,male,SE,FT,Data Scientist,359170,upper,USD,359170,US,0,US,M
+2024,female,SE,FT,ML Engineer,357900,upper,USD,357900,US,0,US,M
+2023,male,SE,FT,Data Architect,354200,upper,USD,354200,US,100,US,M
+2023,male,EX,FT,Director of Data Science,353200,upper,USD,353200,US,0,US,M
+2023,female,EX,FT,Director of Data Science,353200,upper,USD,353200,US,0,US,M
+2023,male,SE,FT,Computer Vision Engineer,351000,upper,USD,351000,US,0,US,M
+2023,male,EN,FT,Research Engineer,350000,upper,USD,350000,US,0,US,M
+2023,female,EX,FT,Data Engineer,350000,upper,USD,350000,US,100,US,M
+2023,male,SE,FT,AI Engineer,350000,upper,USD,350000,US,0,US,M
+2023,female,SE,FT,Data Lead,350000,upper,USD,350000,US,0,US,M
+2023,female,MI,FT,Analytics Engineer,350000,upper,GBP,430640,GB,0,GB,M
+2023,female,SE,FT,Applied Scientist,350000,upper,USD,350000,US,0,US,L
+2022,male,MI,FT,Data Analyst,350000,upper,GBP,430967,GB,0,GB,M
+2022,male,SE,FT,Data Scientist,350000,upper,USD,350000,US,100,US,M
+2022,male,SE,FT,Data Architect,345600,upper,USD,345600,US,0,US,M
+2024,female,SE,FT,Analytics Engineer,345400,upper,USD,345400,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,345400,upper,USD,345400,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,345400,upper,USD,345400,US,0,US,M
+2024,male,SE,FT,Research Scientist,345000,upper,USD,345000,US,0,US,M
+2023,male,SE,FT,Research Scientist,345000,upper,USD,345000,US,0,US,M
+2023,male,SE,FT,Computer Vision Engineer,342810,upper,USD,342810,US,0,US,M
+2024,male,SE,FT,Data Analytics Lead,342400,upper,USD,342400,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,342300,upper,USD,342300,US,0,US,L
+2024,male,SE,FT,Machine Learning Engineer,340000,upper,USD,340000,US,0,US,M
+2024,male,SE,FT,Research Scientist,340000,upper,USD,340000,US,100,US,M
+2023,female,SE,FT,Machine Learning Engineer,340000,upper,USD,340000,US,0,US,M
+2023,male,MI,FT,Research Scientist,340000,upper,USD,340000,US,100,US,M
+2024,male,SE,FT,Research Engineer,339250,upper,USD,339250,US,0,US,M
+2024,female,SE,FT,Research Scientist,337300,upper,USD,337300,US,0,US,M
+2024,male,SE,FT,Research Scientist,337300,upper,USD,337300,US,0,US,M
+2024,male,SE,FT,Research Scientist,337300,upper,USD,337300,US,0,US,M
+2024,male,SE,FT,Research Scientist,337300,upper,USD,337300,US,0,US,M
+2023,female,EX,FT,Director of Data Science,336400,upper,USD,336400,US,0,US,M
+2023,male,SE,FT,ML Engineer,336300,upper,USD,336300,US,0,US,M
+2024,female,EX,FT,Data Engineer,334075,upper,USD,334075,CA,0,CA,M
+2024,male,SE,FT,Research Scientist,333500,upper,USD,333500,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,333500,upper,USD,333500,US,0,US,M
+2024,female,SE,FT,Research Engineer,333500,upper,USD,333500,US,0,US,M
+2024,female,SE,FT,Research Engineer,333500,upper,USD,333500,US,0,US,M
+2023,male,SE,FT,Data Engineer,333500,upper,USD,333500,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,333500,upper,USD,333500,US,0,US,M
+2023,male,EX,FT,Data Engineer,333500,upper,USD,333500,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,331640,upper,USD,331640,US,0,US,M
+2024,male,SE,FT,Data Engineer,331640,upper,USD,331640,US,0,US,M
+2024,female,SE,FT,Machine Learning Engineer,331640,upper,USD,331640,US,0,US,M
+2024,female,SE,FT,Machine Learning Engineer,331640,upper,USD,331640,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,331640,upper,USD,331640,US,0,US,M
+2023,female,SE,FT,ML Engineer,331640,upper,USD,331640,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,331640,upper,USD,331640,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,331640,upper,USD,331640,US,0,US,M
+2023,male,SE,FT,Deep Learning Engineer,331640,upper,USD,331640,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,331640,upper,USD,331640,US,0,US,M
+2023,female,SE,FT,Data Engineer,331640,upper,USD,331640,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,331640,upper,USD,331640,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,331640,upper,USD,331640,US,0,US,M
+2023,female,SE,FT,Data Engineer,331640,upper,USD,331640,US,0,US,M
+2023,female,SE,FT,Deep Learning Engineer,331640,upper,USD,331640,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,331640,upper,USD,331640,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,331640,upper,USD,331640,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,331640,upper,USD,331640,US,0,US,M
+2024,female,SE,FT,Data Science,331292,upper,USD,331292,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,330000,upper,USD,330000,US,100,US,M
+2023,male,EX,FT,Head of Machine Learning,330000,upper,USD,330000,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,330000,upper,USD,330000,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,330000,upper,USD,330000,US,0,US,M
+2023,male,SE,FT,AI Architect,330000,upper,USD,330000,US,0,US,M
+2023,female,SE,FT,AI Architect,330000,upper,USD,330000,US,0,US,M
+2023,male,SE,FT,AI Architect,330000,upper,USD,330000,US,0,US,M
+2023,male,SE,FT,AI Architect,330000,upper,USD,330000,US,0,US,M
+2023,male,EX,FT,Head of Data Science,330000,upper,USD,330000,US,0,US,M
+2023,male,SE,FT,Data Scientist,329700,upper,USD,329700,US,0,US,M
+2023,female,EX,FT,Head of Data,329500,upper,USD,329500,US,100,US,M
+2023,female,EX,FT,Head of Data,329500,upper,USD,329500,US,100,US,M
+2023,male,EX,FT,Head of Data,329500,upper,USD,329500,US,0,US,M
+2023,female,EX,FT,Head of Data,329500,upper,USD,329500,US,0,US,M
+2024,male,SE,FT,Analytics Engineer,329200,upper,USD,329200,CA,100,CA,M
+2023,female,SE,FT,Machine Learning Engineer,328400,upper,USD,328400,US,100,US,M
+2023,male,SE,FT,Machine Learning Engineer,328133,upper,USD,328133,US,0,US,M
+2024,male,MI,FT,Data Science Manager,328000,upper,USD,328000,US,0,US,M
+2023,male,SE,FT,Data Science Manager,328000,upper,USD,328000,US,0,US,M
+2024,male,EX,FT,Data Science,326000,upper,USD,326000,US,100,US,M
+2024,male,MI,FT,Data Analyst,325000,upper,USD,325000,US,0,US,M
+2023,female,SE,FT,Machine Learning Scientist,325000,upper,USD,325000,US,100,US,M
+2023,female,SE,FT,Analytics Engineering Manager,325000,upper,GBP,399880,GB,50,GB,L
+2020,female,EX,FT,Director of Data Science,325000,upper,USD,325000,US,100,US,L
+2024,male,SE,FT,Data Science,324100,upper,USD,324100,US,0,US,L
+2024,female,SE,FT,Machine Learning Engineer,324000,upper,USD,324000,US,0,US,M
+2024,female,SE,FT,Machine Learning Engineer,324000,upper,USD,324000,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,324000,upper,USD,324000,US,0,US,M
+2024,female,SE,FT,Machine Learning Engineer,324000,upper,USD,324000,US,0,US,M
+2024,female,SE,FT,Data Science,324000,upper,USD,324000,US,100,US,M
+2024,female,SE,FT,Machine Learning Engineer,324000,upper,USD,324000,US,0,US,M
+2024,female,SE,FT,Machine Learning Engineer,324000,upper,USD,324000,US,0,US,M
+2024,male,SE,FT,ML Engineer,324000,upper,USD,324000,US,0,US,M
+2024,male,SE,FT,Data Scientist,324000,upper,USD,324000,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,324000,upper,USD,324000,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,324000,upper,USD,324000,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,324000,upper,USD,324000,US,0,US,M
+2023,male,SE,FT,ML Engineer,324000,upper,USD,324000,US,0,US,M
+2023,female,SE,FT,Data Scientist,324000,upper,USD,324000,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,324000,upper,USD,324000,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,324000,upper,USD,324000,US,0,US,M
+2022,female,EX,FT,Data Engineer,324000,upper,USD,324000,US,100,US,M
+2024,female,EX,FT,Data Science,323700,upper,USD,323700,US,100,US,M
+2024,male,SE,FT,Research Scientist,323300,upper,USD,323300,US,0,US,M
+2023,male,SE,FT,Research Scientist,323300,upper,USD,323300,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,323300,upper,USD,323300,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,323300,upper,USD,323300,US,0,US,M
+2023,male,SE,FT,Data Scientist,323300,upper,USD,323300,US,0,US,M
+2023,female,SE,FT,Data Scientist,323300,upper,USD,323300,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,323300,upper,USD,323300,US,0,US,M
+2023,male,SE,FT,Data Scientist,323300,upper,USD,323300,US,0,US,M
+2023,male,SE,FT,Data Scientist,323300,upper,USD,323300,US,0,US,M
+2023,male,SE,FT,Research Scientist,323300,upper,USD,323300,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,323300,upper,USD,323300,US,0,US,M
+2024,male,SE,FT,Data Scientist,322000,upper,USD,322000,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,322000,upper,USD,322000,US,100,US,M
+2024,male,SE,FT,Machine Learning Engineer,322000,upper,USD,322000,US,100,US,M
+2024,male,MI,FT,Data Product Owner,321830,upper,USD,321830,US,0,US,M
+2024,male,SE,FT,Research Scientist,321000,upper,USD,321000,US,0,US,M
+2024,male,SE,FT,Research Scientist,321000,upper,USD,321000,US,100,US,M
+2024,male,EX,FT,Business Intelligence,320000,upper,USD,320000,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,319000,upper,USD,319000,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,319000,upper,USD,319000,US,100,US,M
+2023,female,SE,FT,Machine Learning Engineer,318300,upper,USD,318300,US,100,US,M
+2023,female,SE,FT,Machine Learning Engineer,318300,upper,USD,318300,US,100,US,M
+2023,male,SE,FT,Machine Learning Engineer,317070,upper,USD,317070,US,0,US,M
+2023,male,SE,FT,Data Scientist,317070,upper,USD,317070,US,0,US,M
+2024,male,SE,FT,AI Architect,317000,upper,USD,317000,US,0,US,M
+2024,female,SE,FT,Data Engineer,316900,upper,USD,316900,US,0,US,M
+2023,male,SE,FT,Data Scientist,316000,upper,USD,316000,US,0,US,M
+2023,male,SE,FT,Data Scientist,316000,upper,USD,316000,US,0,US,M
+2023,male,SE,FT,Data Scientist,316000,upper,USD,316000,US,0,US,M
+2023,male,SE,FT,ML Engineer,315850,upper,USD,315850,US,0,US,M
+2023,male,SE,FT,ML Engineer,315850,upper,USD,315850,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,315300,upper,USD,315300,US,100,US,M
+2024,female,SE,FT,Machine Learning Engineer,315000,upper,USD,315000,US,100,US,M
+2022,female,SE,FT,Data Engineer,315000,upper,USD,315000,US,100,US,M
+2024,male,SE,FT,Data Scientist,314100,upper,USD,314100,US,0,US,M
+2023,male,EX,FT,Head of Data Science,314100,upper,USD,314100,US,0,US,M
+2024,male,EX,FT,Data Engineer,314000,upper,USD,314000,CA,100,CA,M
+2024,female,SE,FT,Data Engineer,313000,upper,USD,313000,US,100,US,M
+2024,male,SE,FT,Data Engineer,313000,upper,USD,313000,US,100,US,M
+2024,female,EX,FT,Data Engineer,312287,upper,USD,312287,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,311000,upper,USD,311000,US,0,US,M
+2024,female,SE,FT,Data Scientist,310270,upper,USD,310270,US,0,US,M
+2023,male,SE,FT,Data Scientist,310270,upper,USD,310270,US,0,US,M
+2023,female,SE,FT,Data Scientist,310270,upper,USD,310270,US,0,US,M
+2023,male,SE,FT,Data Scientist,310270,upper,USD,310270,US,0,US,M
+2023,male,SE,FT,Data Scientist,310270,upper,USD,310270,US,0,US,M
+2023,female,SE,FT,Data Scientist,310270,upper,USD,310270,US,0,US,M
+2024,female,SE,FT,Machine Learning Engineer,310000,upper,USD,310000,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,310000,upper,USD,310000,US,0,US,M
+2024,male,SE,FT,AI Engineer,310000,upper,USD,310000,US,0,US,M
+2024,female,SE,FT,Research Engineer,310000,upper,USD,310000,US,0,US,M
+2024,male,MI,FT,Data Scientist,310000,upper,USD,310000,US,0,US,M
+2023,female,MI,FT,Data Scientist,310000,upper,USD,310000,US,0,US,M
+2023,female,SE,FT,Data Architect,310000,upper,USD,310000,US,100,US,M
+2023,female,SE,FT,Research Engineer,310000,upper,USD,310000,US,0,US,M
+2023,male,SE,FT,Data Engineer,310000,upper,USD,310000,US,0,US,M
+2023,female,EX,FT,Data Engineer,310000,upper,USD,310000,US,100,US,M
+2023,male,EX,FT,Data Engineer,310000,upper,USD,310000,US,100,US,M
+2023,female,EX,FT,Data Engineer,310000,upper,USD,310000,US,100,US,M
+2023,female,EX,FT,Data Engineer,310000,upper,USD,310000,US,100,US,M
+2023,female,SE,FT,Data Engineer,310000,upper,USD,310000,US,0,US,M
+2022,male,EX,FT,Data Engineer,310000,upper,USD,310000,US,100,US,M
+2022,female,EX,FT,Data Engineer,310000,upper,USD,310000,US,100,US,M
+2023,female,SE,FT,Applied Scientist,309400,upper,USD,309400,US,0,US,L
+2023,female,SE,FT,Applied Scientist,309400,upper,USD,309400,US,0,US,L
+2023,male,SE,FT,Applied Scientist,309400,upper,USD,309400,US,0,US,L
+2023,female,SE,FT,Applied Scientist,309400,upper,USD,309400,US,0,US,L
+2023,male,SE,FT,Applied Scientist,309400,upper,USD,309400,US,0,US,L
+2023,female,SE,FT,Applied Scientist,309400,upper,USD,309400,US,0,US,L
+2023,female,SE,FT,Applied Scientist,309400,upper,USD,309400,US,0,US,L
+2024,female,SE,FT,Machine Learning Engineer,309000,upper,USD,309000,US,0,US,M
+2024,female,SE,FT,Machine Learning Engineer,309000,upper,USD,309000,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,309000,upper,USD,309000,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,309000,upper,USD,309000,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,309000,upper,USD,309000,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,309000,upper,USD,309000,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,309000,upper,USD,309000,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,309000,upper,USD,309000,US,0,US,M
+2024,female,MI,FT,Data Engineer,308000,upper,USD,308000,US,0,US,M
+2023,female,SE,FT,Research Engineer,308000,upper,USD,308000,US,0,US,M
+2023,male,SE,FT,Data Scientist,308000,upper,USD,308000,US,0,US,M
+2023,female,SE,FT,Data Scientist,308000,upper,USD,308000,US,0,US,M
+2023,female,SE,FT,Research Engineer,308000,upper,USD,308000,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,307100,upper,USD,307100,US,100,US,M
+2023,female,SE,FT,Data Scientist,307100,upper,USD,307100,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,306400,upper,USD,306400,CA,0,CA,M
+2023,male,SE,FT,Data Architect,306000,upper,USD,306000,US,100,US,M
+2023,female,SE,FT,Research Engineer,306000,upper,USD,306000,US,0,US,M
+2023,male,SE,FT,Data Architect,306000,upper,USD,306000,US,100,US,M
+2023,female,SE,FT,Data Architect,306000,upper,USD,306000,US,100,US,M
+2023,male,SE,FT,Data Architect,306000,upper,USD,306000,US,100,US,M
+2023,female,SE,FT,Data Scientist,305600,upper,USD,305600,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,305600,upper,USD,305600,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,305600,upper,USD,305600,US,0,US,M
+2023,female,SE,FT,Data Scientist,305600,upper,USD,305600,US,0,US,M
+2023,male,SE,FT,AI Architect,305100,upper,USD,305100,US,100,US,M
+2023,male,SE,FT,ML Engineer,305000,upper,USD,305000,US,0,US,M
+2023,female,SE,FT,Data Engineer,305000,upper,USD,305000,US,100,US,M
+2024,male,SE,FT,Data Engineer,304750,upper,USD,304750,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,304750,upper,USD,304750,US,0,US,M
+2023,male,SE,FT,Data Engineer,304750,upper,USD,304750,US,0,US,M
+2023,female,SE,FT,Data Engineer,304200,upper,USD,304200,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,304000,upper,USD,304000,US,100,US,M
+2024,male,SE,FT,Machine Learning Engineer,303400,upper,USD,303400,US,100,US,M
+2024,male,SE,FT,Machine Learning Engineer,303400,upper,USD,303400,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,303400,upper,USD,303400,CA,100,CA,M
+2024,female,SE,FT,Machine Learning Engineer,303400,upper,USD,303400,US,100,US,M
+2024,male,SE,FT,Research Scientist,303050,upper,USD,303050,US,0,US,M
+2023,male,SE,FT,Research Scientist,303050,upper,USD,303050,US,0,US,M
+2023,female,SE,FT,Research Scientist,303050,upper,USD,303050,US,0,US,M
+2023,female,SE,FT,Research Scientist,303050,upper,USD,303050,US,0,US,M
+2024,male,SE,FT,Research Scientist,302840,upper,USD,302840,US,0,US,M
+2023,female,SE,FT,Machine Learning Software Engineer,302000,upper,USD,302000,US,0,US,M
+2023,female,SE,FT,Data Scientist,300240,upper,USD,300240,US,0,US,M
+2023,female,SE,FT,Data Scientist,300240,upper,USD,300240,US,0,US,M
+2023,female,SE,FT,Data Infrastructure Engineer,300105,upper,USD,300105,US,0,US,M
+2024,male,SE,FT,Machine Learning Infrastructure Engineer,300000,upper,USD,300000,US,0,US,M
+2024,male,EX,FT,Data Science,300000,upper,USD,300000,US,100,US,M
+2024,male,SE,FT,Data Engineer,300000,upper,USD,300000,US,0,US,M
+2024,female,MI,FT,Research Scientist,300000,upper,USD,300000,US,0,US,M
+2024,female,EN,FT,Research Analyst,300000,upper,USD,300000,US,0,US,M
+2024,male,EN,FT,Research Analyst,300000,upper,USD,300000,US,0,US,M
+2024,male,EN,FT,Research Analyst,300000,upper,USD,300000,US,100,US,M
+2024,female,EX,FT,Data Science,300000,upper,USD,300000,US,100,US,M
+2024,female,EX,FT,Data Science,300000,upper,USD,300000,US,100,US,M
+2024,male,SE,FT,Research Engineer,300000,upper,USD,300000,GB,0,GB,M
+2024,male,EX,FT,Data Science,300000,upper,USD,300000,US,100,US,M
+2024,female,SE,FT,ML Engineer,300000,upper,USD,300000,US,0,US,M
+2024,female,SE,FT,Machine Learning Engineer,300000,upper,USD,300000,US,100,US,M
+2024,male,SE,FT,Machine Learning Engineer,300000,upper,USD,300000,US,0,US,M
+2024,female,EX,FT,Data Science,300000,upper,USD,300000,US,100,US,M
+2024,female,SE,FT,Machine Learning Engineer,300000,upper,USD,300000,US,0,US,M
+2024,female,SE,FT,Machine Learning Engineer,300000,upper,USD,300000,US,0,US,M
+2023,male,SE,FT,Research Engineer,300000,upper,USD,300000,US,0,US,M
+2023,female,SE,FT,Data Engineer,300000,upper,USD,300000,US,100,US,M
+2023,male,SE,FT,Machine Learning Engineer,300000,upper,USD,300000,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,300000,upper,USD,300000,US,0,US,M
+2023,female,SE,FT,Data Scientist,300000,upper,USD,300000,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,300000,upper,USD,300000,US,0,US,M
+2023,male,SE,FT,Data Engineer,300000,upper,USD,300000,US,100,US,M
+2023,male,MI,FT,Machine Learning Engineer,300000,upper,USD,300000,US,0,US,M
+2023,male,SE,FT,Data Engineer,300000,upper,USD,300000,US,0,US,M
+2023,male,SE,FT,Data Engineer,300000,upper,USD,300000,US,0,US,M
+2023,female,MI,FT,Research Engineer,300000,upper,USD,300000,US,0,US,M
+2023,male,MI,FT,Research Engineer,300000,upper,USD,300000,US,0,US,M
+2023,male,SE,FT,Machine Learning Scientist,300000,upper,USD,300000,US,0,US,M
+2023,female,MI,FT,Analytics Engineer,300000,upper,GBP,369120,GB,0,GB,M
+2023,male,MI,FT,Research Scientist,300000,upper,USD,300000,US,0,US,M
+2023,female,SE,FT,Data Scientist,300000,upper,USD,300000,US,0,US,M
+2023,female,SE,FT,Data Engineer,300000,upper,USD,300000,US,0,US,M
+2023,male,SE,FT,Research Scientist,300000,upper,USD,300000,US,0,US,M
+2023,male,SE,FT,ML Engineer,300000,upper,USD,300000,US,0,US,M
+2023,male,MI,FT,AI Engineer,300000,upper,GBP,369120,GB,0,GB,M
+2023,female,MI,FT,Data Analyst,300000,upper,GBP,369120,GB,0,GB,M
+2023,female,MI,FT,Machine Learning Engineer,300000,upper,USD,300000,US,0,US,M
+2023,female,MI,FT,Machine Learning Engineer,300000,upper,USD,300000,US,0,US,M
+2023,male,MI,FT,AI Engineer,300000,upper,USD,300000,QA,100,QA,M
+2023,male,SE,FT,Data Scientist,300000,upper,USD,300000,US,0,US,M
+2023,male,SE,FT,Data Scientist,300000,upper,USD,300000,US,0,US,M
+2023,male,SE,FT,Data Engineer,300000,upper,USD,300000,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,300000,upper,USD,300000,US,0,US,M
+2023,male,MI,FT,Machine Learning Engineer,300000,upper,USD,300000,GB,0,GB,M
+2020,male,EX,FT,Managing Director Data Science,300000,upper,USD,300000,US,100,US,L
+2023,male,MI,FT,ML Engineer,300000,upper,USD,300000,AU,0,AU,M
+2023,male,SE,CT,Finance Data Analyst,300000,upper,EUR,323905,FR,100,US,M
+2023,male,MI,FT,Machine Learning Engineer,300000,upper,USD,300000,US,0,US,M
+2023,female,SE,FT,Data Engineer,300000,upper,USD,300000,US,0,US,M
+2023,male,SE,FT,Data Engineer,300000,upper,USD,300000,US,0,US,M
+2023,male,EX,FT,Data Scientist,300000,upper,USD,300000,US,0,US,M
+2022,male,SE,FT,Data Engineer,300000,upper,USD,300000,US,0,US,M
+2022,male,SE,FT,Research Scientist,300000,upper,USD,300000,US,100,US,M
+2022,female,SE,FT,Data Engineer,300000,upper,USD,300000,US,0,US,M
+2022,male,SE,FT,Data Engineer,300000,upper,USD,300000,US,0,US,M
+2022,male,SE,FT,Data Engineer,300000,upper,USD,300000,US,0,US,M
+2022,female,SE,FT,Data Science Manager,300000,upper,USD,300000,US,100,US,M
+2020,female,EN,FT,AI Scientist,300000,upper,DKK,45896,DK,50,DK,S
+2024,female,SE,FT,Data Architect,299792,upper,USD,299792,US,0,US,M
+2023,male,SE,FT,Data Science Manager,299500,upper,USD,299500,US,0,US,M
+2023,male,EX,FT,Data Scientist,299500,upper,USD,299500,US,100,US,M
+2023,male,SE,FT,Data Science Manager,299500,upper,USD,299500,US,0,US,M
+2023,female,SE,FT,Data Science Manager,299500,upper,USD,299500,US,0,US,M
+2023,male,SE,FT,Data Science Manager,299500,upper,USD,299500,US,0,US,M
+2023,male,SE,FT,Data Science Manager,299500,upper,USD,299500,US,0,US,M
+2023,female,SE,FT,Data Science Manager,299500,upper,USD,299500,US,0,US,M
+2023,male,SE,FT,Data Science Manager,299500,upper,USD,299500,US,0,US,M
+2023,male,SE,FT,Data Science Manager,299500,upper,USD,299500,US,0,US,M
+2022,male,SE,FT,Data Science Manager,299500,upper,USD,299500,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,299000,upper,USD,299000,US,0,US,M
+2022,female,EX,FT,Data Engineer,297500,upper,USD,297500,US,100,US,M
+2023,female,SE,FT,Data Scientist,297300,upper,USD,297300,US,100,US,M
+2023,male,SE,FT,Data Science Manager,297300,upper,USD,297300,US,100,US,M
+2023,female,SE,FT,Machine Learning Engineer,297300,upper,USD,297300,US,100,US,M
+2023,male,SE,FT,Machine Learning Engineer,297300,upper,USD,297300,US,100,US,M
+2023,male,SE,FT,Data Scientist,297300,upper,USD,297300,US,100,US,M
+2023,female,SE,FT,Data Scientist,297300,upper,USD,297300,US,100,US,M
+2023,female,SE,FT,ML Engineer,297300,upper,USD,297300,US,100,US,M
+2023,male,SE,FT,Machine Learning Engineer,297300,upper,USD,297300,US,100,US,M
+2023,male,SE,FT,Data Scientist,297300,upper,USD,297300,US,100,US,M
+2023,male,SE,FT,Data Scientist,297300,upper,USD,297300,US,100,US,M
+2023,female,SE,FT,Data Science Manager,297300,upper,USD,297300,US,100,US,M
+2023,male,SE,FT,Data Scientist,297300,upper,USD,297300,US,100,US,M
+2024,male,SE,FT,Data Scientist,297000,upper,USD,297000,US,0,US,M
+2024,male,SE,FT,Data Scientist,297000,upper,USD,297000,US,0,US,M
+2024,male,SE,FT,Data Scientist,297000,upper,USD,297000,US,0,US,M
+2023,female,SE,FT,Data Scientist,297000,upper,USD,297000,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,297000,upper,USD,297000,US,0,US,M
+2024,female,SE,FT,Data Scientist,296980,upper,USD,296980,US,0,US,M
+2023,female,MI,FT,Data Scientist,296980,upper,USD,296980,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,296400,upper,USD,296400,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,296400,upper,USD,296400,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,296400,upper,USD,296400,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,296400,upper,USD,296400,US,0,US,M
+2024,male,SE,FT,Data Scientist,296100,upper,USD,296100,US,0,US,M
+2023,male,SE,FT,Data Scientist,296100,upper,USD,296100,US,0,US,M
+2023,female,EX,FT,Machine Learning Engineer,295500,upper,USD,295500,US,100,US,M
+2024,male,SE,FT,Data Scientist,295490,upper,USD,295490,US,0,US,M
+2023,female,SE,FT,Data Scientist,295490,upper,USD,295490,US,0,US,M
+2023,female,SE,FT,Data Scientist,295490,upper,USD,295490,US,0,US,M
+2023,male,SE,FT,Data Scientist,295490,upper,USD,295490,US,0,US,M
+2023,female,SE,FT,Data Scientist,295490,upper,USD,295490,US,0,US,M
+2023,female,SE,FT,Data Scientist,295490,upper,USD,295490,US,0,US,M
+2023,male,SE,FT,Data Scientist,295490,upper,USD,295490,US,0,US,M
+2023,female,SE,FT,Data Scientist,295490,upper,USD,295490,US,0,US,M
+2024,female,MI,FT,Research Engineer,295000,upper,USD,295000,US,0,US,M
+2024,male,MI,FT,Research Engineer,295000,upper,USD,295000,US,0,US,M
+2024,female,SE,FT,Data Engineer,295000,upper,USD,295000,US,0,US,M
+2024,female,MI,FT,Research Engineer,295000,upper,USD,295000,US,0,US,M
+2024,female,MI,FT,Research Engineer,295000,upper,USD,295000,US,0,US,M
+2024,male,MI,FT,Research Scientist,295000,upper,USD,295000,US,0,US,M
+2024,male,MI,FT,Research Engineer,295000,upper,USD,295000,US,0,US,M
+2024,female,SE,FT,Research Scientist,295000,upper,USD,295000,US,0,US,M
+2024,male,SE,FT,Research Engineer,295000,upper,USD,295000,US,0,US,M
+2023,male,SE,FT,Data Scientist,295000,upper,USD,295000,US,0,US,M
+2024,female,SE,FT,Data Scientist,294000,upper,USD,294000,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,294000,upper,USD,294000,US,0,US,M
+2023,male,SE,FT,Research Scientist,293000,upper,USD,293000,US,0,US,M
+2023,female,SE,FT,Data Engineer,293000,upper,USD,293000,US,0,US,M
+2023,male,SE,FT,Research Engineer,293000,upper,USD,293000,US,0,US,M
+2023,female,SE,FT,Machine Learning Scientist,292200,upper,USD,292200,US,100,US,M
+2023,female,SE,FT,Machine Learning Scientist,292000,upper,USD,292000,US,100,US,M
+2024,female,EN,FT,Data Analyst,291900,upper,USD,291900,US,0,US,M
+2023,male,SE,FT,ML Engineer,291500,upper,USD,291500,US,0,US,M
+2023,female,SE,FT,Data Engineer,291500,upper,USD,291500,US,0,US,M
+2023,male,SE,FT,Data Engineer,291500,upper,USD,291500,US,0,US,M
+2023,female,SE,FT,Data Engineer,290300,upper,USD,290300,US,0,US,M
+2024,female,SE,FT,Research Scientist,290000,upper,USD,290000,US,0,US,M
+2024,female,EX,FT,Machine Learning Engineer,290000,upper,USD,290000,US,0,US,M
+2024,female,SE,FT,Machine Learning Engineer,290000,upper,USD,290000,US,0,US,M
+2024,male,SE,FT,Research Engineer,290000,upper,USD,290000,US,0,US,M
+2024,female,SE,FT,Applied Scientist,290000,upper,USD,290000,US,100,US,M
+2024,female,EX,FT,Head of Data,290000,upper,USD,290000,US,100,US,M
+2023,male,SE,FT,Data Scientist,290000,upper,USD,290000,US,0,US,M
+2023,male,SE,FT,ML Engineer,290000,upper,USD,290000,US,100,US,M
+2023,male,EX,FT,Head of Data,290000,upper,USD,290000,US,100,US,L
+2023,female,SE,FT,Data Engineer,290000,upper,USD,290000,US,100,US,M
+2023,female,SE,FT,Analytics Engineer,289800,upper,USD,289800,US,0,US,M
+2023,female,SE,FT,Analytics Engineer,289800,upper,USD,289800,GB,0,GB,M
+2023,female,SE,FT,Analytics Engineer,289800,upper,USD,289800,US,0,US,M
+2023,male,SE,FT,Analytics Engineer,289800,upper,USD,289800,US,0,US,M
+2023,female,SE,FT,Data Operations Engineer,289120,upper,USD,289120,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,289076,upper,USD,289076,US,0,US,M
+2023,female,SE,FT,ML Engineer,289076,upper,USD,289076,US,0,US,M
+2024,male,SE,FT,AI Architect,289000,upper,USD,289000,US,100,US,L
+2024,male,EX,FT,Data Science,288400,upper,USD,288400,US,0,US,M
+2024,male,SE,FT,Data Science,288400,upper,USD,288400,US,0,US,M
+2023,male,SE,FT,Data Engineer,288000,upper,USD,288000,US,100,US,M
+2023,male,SE,FT,Machine Learning Engineer,288000,upper,USD,288000,US,100,US,M
+2023,female,SE,FT,Machine Learning Engineer,288000,upper,USD,288000,US,100,US,M
+2024,male,MI,FT,Data Science,287800,upper,USD,287800,US,0,US,M
+2024,male,MI,FT,Data Science,287800,upper,USD,287800,US,0,US,M
+2023,male,SE,FT,ML Engineer,287700,upper,USD,287700,US,0,US,L
+2024,female,SE,FT,Analytics Engineer,287500,upper,USD,287500,US,0,US,M
+2024,female,SE,FT,AI Engineer,287500,upper,USD,287500,US,0,US,M
+2023,male,SE,FT,Research Scientist,287500,upper,USD,287500,US,0,US,M
+2023,female,SE,FT,Data Scientist,287500,upper,USD,287500,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,287500,upper,USD,287500,US,0,US,M
+2023,male,MI,FT,Machine Learning Engineer,287500,upper,USD,287500,AU,0,AU,M
+2023,male,MI,FT,Machine Learning Engineer,287500,upper,USD,287500,AU,0,AU,M
+2024,female,EX,FT,Data Science,286500,upper,USD,286500,US,0,US,M
+2024,female,SE,FT,Data Scientist,286000,upper,USD,286000,US,0,US,M
+2023,female,SE,FT,Data Engineer,286000,upper,USD,286000,US,0,US,M
+2023,male,EX,FT,Data Engineer,286000,upper,USD,286000,US,100,US,M
+2023,female,SE,FT,Data Scientist,285800,upper,USD,285800,US,0,US,M
+2023,female,SE,FT,Data Scientist,285800,upper,USD,285800,US,100,US,M
+2024,male,SE,FT,Data Scientist,285670,upper,USD,285670,US,100,US,M
+2024,female,SE,FT,Applied Scientist,285200,upper,USD,285200,US,100,US,M
+2024,male,SE,FT,AI Architect,285000,upper,USD,285000,US,0,US,M
+2023,male,MI,FT,Machine Learning Engineer,285000,upper,USD,285000,US,0,US,L
+2023,male,SE,FT,Data Scientist,285000,upper,USD,285000,US,100,US,M
+2023,female,SE,FT,Machine Learning Engineer,285000,upper,USD,285000,US,0,US,M
+2023,female,SE,FT,Data Engineer,285000,upper,USD,285000,US,0,US,M
+2023,male,SE,FT,Data Architect,285000,upper,USD,285000,US,100,US,M
+2023,female,SE,FT,Research Scientist,285000,upper,USD,285000,US,0,US,M
+2024,male,SE,FT,Data Scientist,284500,upper,CHF,323295,CH,50,CH,L
+2024,male,SE,FT,Machine Learning Engineer,284400,upper,USD,284400,US,0,US,M
+2024,female,SE,FT,Machine Learning Engineer,284400,upper,USD,284400,US,0,US,M
+2023,male,SE,FT,Data Engineer,284310,upper,USD,284310,US,0,US,M
+2023,female,SE,FT,Data Engineer,284310,upper,USD,284310,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,284310,upper,USD,284310,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,284050,upper,USD,284050,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,284000,upper,USD,284000,US,100,US,M
+2023,female,EX,FT,Data Engineer,284000,upper,USD,284000,US,100,US,M
+2024,female,SE,FT,Data Engineer,283800,upper,USD,283800,US,100,US,M
+2024,male,SE,FT,Data Scientist,283800,upper,USD,283800,US,0,US,M
+2024,female,SE,FT,Data Scientist,283800,upper,USD,283800,US,0,US,M
+2024,female,SE,FT,Machine Learning Engineer,283780,upper,USD,283780,US,0,US,M
+2024,female,SE,FT,Machine Learning Engineer,283780,upper,USD,283780,US,0,US,M
+2024,male,SE,FT,Data Engineer,283780,upper,USD,283780,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,283780,upper,USD,283780,US,0,US,M
+2024,female,SE,FT,Machine Learning Engineer,283780,upper,USD,283780,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,283780,upper,USD,283780,US,0,US,M
+2023,female,SE,FT,Deep Learning Engineer,283780,upper,USD,283780,US,0,US,M
+2023,male,SE,FT,Data Engineer,283780,upper,USD,283780,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,283780,upper,USD,283780,US,0,US,M
+2023,male,SE,FT,Data Engineer,283780,upper,USD,283780,US,0,US,M
+2023,female,SE,FT,Deep Learning Engineer,283780,upper,USD,283780,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,283780,upper,USD,283780,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,283780,upper,USD,283780,US,0,US,M
+2024,male,SE,FT,Data Architect,283500,upper,USD,283500,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,283200,upper,USD,283200,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,283200,upper,USD,283200,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,283200,upper,USD,283200,US,100,US,M
+2023,male,SE,FT,Research Scientist,283050,upper,USD,283050,US,0,US,M
+2023,female,SE,FT,Data Scientist,283000,upper,USD,283000,US,0,US,M
+2024,male,SE,FT,Robotics Software Engineer,282000,upper,USD,282000,US,0,US,M
+2024,male,SE,FT,Data Engineer,282000,upper,USD,282000,US,0,US,M
+2023,male,SE,FT,Data Engineer,282000,upper,USD,282000,US,0,US,M
+2023,male,SE,FT,Data Engineer,282000,upper,USD,282000,US,0,US,M
+2023,female,EN,FT,Applied Scientist,281700,upper,USD,281700,US,0,US,M
+2023,female,SE,FT,Data Scientist,281000,upper,USD,281000,CA,0,CA,M
+2023,male,SE,FT,Data Scientist,281000,upper,USD,281000,CA,0,CA,M
+2023,female,SE,FT,Research Engineer,281000,upper,USD,281000,US,0,US,M
+2023,male,SE,FT,Data Scientist,281000,upper,USD,281000,CA,0,CA,M
+2023,female,SE,FT,Data Scientist,280889,upper,USD,280889,US,0,US,M
+2023,male,SE,FT,Data Scientist,280889,upper,USD,280889,US,0,US,M
+2023,female,SE,FT,Data Scientist,280830,upper,USD,280830,CA,100,CA,M
+2023,male,MI,FT,Machine Learning Engineer,280700,upper,USD,280700,US,100,US,M
+2023,male,SE,FT,Data Engineer,280600,upper,USD,280600,US,0,US,M
+2023,male,SE,FT,Data Engineer,280600,upper,USD,280600,US,0,US,M
+2023,female,SE,FT,Data Architect,280100,upper,USD,280100,US,100,US,M
+2023,female,SE,FT,Data Architect,280100,upper,USD,280100,US,100,US,M
+2024,female,SE,FT,Research Scientist,280000,upper,USD,280000,US,0,US,M
+2024,female,SE,FT,Prompt Engineer,280000,upper,USD,280000,US,0,US,M
+2024,female,SE,FT,Research Engineer,280000,upper,USD,280000,US,0,US,M
+2024,female,MI,FT,MLOps Engineer,280000,upper,USD,280000,US,0,US,M
+2024,female,MI,FT,Machine Learning Engineer,280000,upper,USD,280000,US,0,US,M
+2024,male,MI,FT,Research Engineer,280000,upper,USD,280000,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,280000,upper,USD,280000,US,0,US,M
+2023,female,MI,FT,Data Science,280000,upper,USD,280000,US,0,US,M
+2023,male,SE,FT,Data Scientist,280000,upper,USD,280000,US,100,US,M
+2023,female,SE,FT,Data Engineer,280000,upper,USD,280000,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,280000,upper,USD,280000,US,0,US,M
+2023,male,SE,FT,Data Engineer,280000,upper,USD,280000,US,0,US,M
+2023,male,SE,FT,Data Analyst,280000,upper,USD,280000,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,280000,upper,USD,280000,US,0,US,M
+2023,female,SE,FT,Machine Learning Scientist,280000,upper,USD,280000,US,100,US,M
+2023,male,SE,FT,Machine Learning Engineer,280000,upper,USD,280000,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,280000,upper,USD,280000,US,0,US,M
+2023,male,SE,FT,Data Analyst,280000,upper,USD,280000,US,0,US,M
+2023,male,MI,FT,Research Scientist,280000,upper,USD,280000,GB,50,GB,L
+2023,female,SE,FT,Computer Vision Engineer,280000,upper,USD,280000,US,0,US,M
+2023,female,SE,FT,Computer Vision Engineer,280000,upper,USD,280000,US,0,US,M
+2024,male,SE,FT,Data Scientist,279000,upper,USD,279000,US,100,US,M
+2024,male,SE,FT,Data Architect,278800,upper,USD,278800,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,278700,upper,USD,278700,US,0,US,M
+2024,male,SE,FT,Research Scientist,278700,upper,USD,278700,US,0,US,M
+2024,male,SE,FT,Research Scientist,278700,upper,USD,278700,US,0,US,M
+2024,female,SE,FT,Research Scientist,278700,upper,USD,278700,US,0,US,M
+2024,female,SE,FT,Research Scientist,278700,upper,USD,278700,US,0,US,M
+2024,female,SE,FT,Research Scientist,278700,upper,USD,278700,US,0,US,M
+2024,male,SE,FT,Data Scientist,278700,upper,USD,278700,US,0,US,M
+2024,female,SE,FT,Research Scientist,278700,upper,USD,278700,US,0,US,M
+2024,female,SE,FT,Research Scientist,278700,upper,USD,278700,US,0,US,M
+2024,male,SE,FT,Research Scientist,278700,upper,USD,278700,US,0,US,M
+2023,female,SE,FT,Research Scientist,278700,upper,USD,278700,US,0,US,M
+2023,female,SE,FT,Research Scientist,278700,upper,USD,278700,US,0,US,M
+2023,male,SE,FT,Research Scientist,278700,upper,USD,278700,US,0,US,M
+2023,female,SE,FT,Research Scientist,278700,upper,USD,278700,US,0,US,M
+2023,female,SE,FT,Research Scientist,278700,upper,USD,278700,US,0,US,M
+2023,male,SE,FT,Data Scientist,278700,upper,USD,278700,US,0,US,M
+2023,female,SE,FT,Data Scientist,278700,upper,USD,278700,US,0,US,M
+2023,female,SE,FT,Data Scientist,278700,upper,USD,278700,US,0,US,M
+2023,female,SE,FT,Research Scientist,278700,upper,USD,278700,US,0,US,M
+2023,female,SE,FT,Data Engineer,278300,upper,USD,278300,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,278000,upper,USD,278000,US,0,US,M
+2023,male,SE,FT,Data Scientist,277500,upper,USD,277500,US,0,US,M
+2023,male,SE,FT,Data Scientist,277300,upper,USD,277300,GB,0,GB,M
+2024,male,SE,FT,Data Engineer,277000,upper,USD,277000,US,0,US,M
+2024,female,SE,FT,Data Engineer,277000,upper,USD,277000,US,0,US,M
+2024,female,SE,FT,Machine Learning Scientist,277000,upper,USD,277000,US,0,US,M
+2024,female,SE,FT,Data Engineer,277000,upper,USD,277000,US,0,US,M
+2023,male,SE,FT,Data Scientist,277000,upper,USD,277000,US,0,US,M
+2024,female,SE,FT,AI Engineer,276000,upper,USD,276000,US,0,US,M
+2024,male,SE,FT,Data Engineer,276000,upper,USD,276000,US,0,US,M
+2024,male,SE,FT,Data Architect,276000,upper,USD,276000,US,0,US,M
+2024,male,SE,FT,Data Architect,276000,upper,USD,276000,US,0,US,M
+2024,female,MI,FT,Data Science,276000,upper,USD,276000,US,0,US,M
+2024,male,SE,FT,Data Science,276000,upper,USD,276000,US,0,US,M
+2023,female,SE,FT,ML Engineer,276000,upper,USD,276000,US,0,US,M
+2023,female,SE,FT,ML Engineer,276000,upper,USD,276000,US,0,US,M
+2023,female,SE,FT,ML Engineer,276000,upper,USD,276000,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,276000,upper,USD,276000,US,0,US,M
+2023,male,SE,FT,Data Engineer,276000,upper,USD,276000,US,100,US,M
+2023,male,SE,FT,Machine Learning Engineer,276000,upper,USD,276000,US,0,US,M
+2021,female,SE,FT,Lead Data Engineer,276000,upper,USD,276000,US,0,US,L
+2023,female,SE,FT,Data Scientist,275500,upper,USD,275500,US,0,US,M
+2023,male,SE,FT,Data Scientist,275300,upper,USD,275300,US,100,US,M
+2023,male,SE,FT,ML Engineer,275300,upper,USD,275300,US,100,US,M
+2023,male,SE,FT,Data Engineer,275300,upper,USD,275300,US,100,US,M
+2023,male,SE,FT,Analytics Engineer,275300,upper,USD,275300,US,100,US,M
+2023,male,SE,FT,Data Scientist,275300,upper,USD,275300,US,100,US,M
+2023,male,SE,FT,Data Scientist,275300,upper,USD,275300,US,100,US,M
+2023,female,SE,FT,Data Scientist,275300,upper,USD,275300,US,100,US,M
+2023,male,SE,FT,Data Scientist,275300,upper,USD,275300,US,100,US,M
+2023,female,SE,FT,Data Scientist,275300,upper,USD,275300,US,100,US,M
+2023,male,SE,FT,Analytics Engineer,275300,upper,USD,275300,US,100,US,M
+2023,female,SE,FT,Data Scientist,275300,upper,USD,275300,US,100,US,M
+2023,male,SE,FT,Data Scientist,275300,upper,USD,275300,US,100,US,M
+2023,male,SE,FT,Data Scientist,275300,upper,USD,275300,US,100,US,M
+2024,male,SE,FT,Data Engineer,275000,upper,USD,275000,US,100,US,M
+2023,female,SE,FT,Machine Learning Engineer,275000,upper,USD,275000,US,0,US,M
+2023,female,SE,FT,ML Engineer,275000,upper,USD,275000,DE,0,DE,M
+2023,female,SE,FT,ML Engineer,275000,upper,USD,275000,US,0,US,M
+2023,male,SE,FT,Data Engineer,275000,upper,USD,275000,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,275000,upper,USD,275000,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,275000,upper,USD,275000,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,275000,upper,USD,275000,US,0,US,M
+2023,female,SE,FT,Research Scientist,275000,upper,USD,275000,US,0,US,M
+2023,female,MI,FT,Data Engineer,275000,upper,USD,275000,CA,0,CA,M
+2023,female,SE,FT,Machine Learning Engineer,275000,upper,USD,275000,US,0,US,M
+2023,male,MI,FT,Research Scientist,275000,upper,USD,275000,US,0,US,M
+2023,male,MI,FT,Research Scientist,275000,upper,USD,275000,US,0,US,M
+2023,female,SE,FT,Research Engineer,275000,upper,USD,275000,DE,0,DE,M
+2022,male,SE,FT,AI Developer,275000,upper,USD,275000,CA,0,CA,S
+2023,female,SE,FT,Data Engineer,275000,upper,USD,275000,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,275000,upper,USD,275000,DE,0,DE,M
+2023,male,SE,FT,NLP Engineer,275000,upper,USD,275000,US,0,US,M
+2022,male,SE,FT,Data Engineer,275000,upper,USD,275000,US,100,US,M
+2024,male,SE,FT,Data Engineer,274965,upper,CAD,211511,CA,0,CA,M
+2023,male,SE,FT,Data Architect,274450,upper,USD,274450,US,0,US,M
+2024,female,SE,FT,Machine Learning Engineer,274000,upper,USD,274000,US,100,US,M
+2024,female,SE,FT,Data Scientist,273500,upper,USD,273500,US,0,US,M
+2023,female,SE,FT,Data Scientist,273500,upper,USD,273500,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,273400,upper,USD,273400,US,0,US,M
+2023,female,SE,FT,Research Scientist,273400,upper,USD,273400,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,273400,upper,USD,273400,US,100,US,M
+2023,female,SE,FT,Machine Learning Engineer,273400,upper,USD,273400,US,0,US,M
+2023,male,SE,FT,Research Engineer,273000,upper,USD,273000,US,0,US,M
+2024,male,SE,FT,Analytics Engineer,272700,upper,USD,272700,US,0,US,M
+2023,male,SE,FT,Data Scientist,272550,upper,USD,272550,US,0,US,M
+2022,male,SE,FT,Data Scientist,272550,upper,USD,272550,US,100,US,M
+2024,female,SE,FT,Data Scientist,272400,upper,USD,272400,US,0,US,M
+2023,female,SE,FT,Data Scientist,272400,upper,USD,272400,US,0,US,M
+2023,female,EX,FT,Data Science Manager,272400,upper,USD,272400,US,0,US,L
+2023,female,SE,FT,Data Science Manager,272400,upper,USD,272400,US,0,US,L
+2023,female,SE,FT,Data Scientist,272300,upper,USD,272300,US,0,US,M
+2023,male,SE,FT,Data Scientist,272290,upper,USD,272290,US,100,US,M
+2023,male,SE,FT,Data Science Lead,272000,upper,USD,272000,US,0,US,M
+2023,male,SE,FT,Machine Learning Software Engineer,272000,upper,USD,272000,US,0,US,M
+2023,male,SE,FT,Data Engineer,270703,upper,USD,270703,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,270400,upper,USD,270400,US,0,US,M
+2024,female,MI,FT,Data Engineer,270250,upper,USD,270250,US,0,US,M
+2024,male,SE,FT,Data Engineer,270250,upper,USD,270250,US,0,US,M
+2024,male,SE,FT,Data Science,270250,upper,USD,270250,US,0,US,M
+2023,male,SE,FT,Data Science,270250,upper,USD,270250,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,270000,upper,USD,270000,US,0,US,M
+2024,female,SE,FT,Machine Learning Engineer,270000,upper,USD,270000,US,0,US,M
+2024,female,SE,FT,Data Engineer,270000,upper,USD,270000,AU,0,AU,M
+2024,male,SE,FT,Research Engineer,270000,upper,USD,270000,US,0,US,M
+2023,female,SE,FT,ML Engineer,270000,upper,USD,270000,US,100,US,M
+2023,male,MI,FT,Research Scientist,270000,upper,USD,270000,US,0,US,L
+2023,female,EX,FT,Head of Data,270000,upper,USD,270000,US,100,US,M
+2023,male,SE,FT,ML Engineer,270000,upper,USD,270000,US,100,US,M
+2023,female,SE,FT,Data Scientist,270000,upper,USD,270000,US,0,US,M
+2023,male,MI,FT,Data Science Manager,270000,upper,USD,270000,US,100,US,M
+2021,female,MI,CT,ML Engineer,270000,upper,USD,270000,US,100,US,L
+2023,male,EX,FT,Head of Data,269600,upper,USD,269600,US,100,US,M
+2023,male,EX,FT,Head of Data,269600,upper,USD,269600,US,100,US,M
+2023,male,EX,FT,Head of Data,269600,upper,USD,269600,US,0,US,M
+2023,female,EX,FT,Head of Data,269600,upper,USD,269600,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,269500,upper,USD,269500,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,269500,upper,USD,269500,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,269500,upper,USD,269500,US,0,US,M
+2024,male,SE,FT,Data Engineer,269100,upper,USD,269100,US,0,US,M
+2023,female,SE,FT,Data Engineer,269100,upper,USD,269100,US,0,US,M
+2024,female,SE,FT,Data Scientist,269000,upper,USD,269000,CA,0,CA,M
+2023,female,SE,FT,Machine Learning Engineer,269000,upper,USD,269000,CA,100,CA,M
+2024,male,SE,FT,Data Science,268700,upper,USD,268700,US,0,US,M
+2024,male,EX,FT,Data Engineer,268500,upper,USD,268500,CA,0,CA,M
+2023,male,SE,FT,Data Scientist,268000,upper,USD,268000,US,0,US,M
+2023,male,EX,FT,Data Engineer,268000,upper,USD,268000,US,100,US,M
+2023,female,SE,FT,Data Scientist,268000,upper,USD,268000,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,268000,upper,USD,268000,US,100,US,M
+2024,male,SE,FT,Data Science,267900,upper,USD,267900,US,0,US,M
+2024,female,SE,FT,Machine Learning Engineer,267900,upper,USD,267900,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,267720,upper,USD,267720,US,0,US,M
+2023,male,SE,FT,ML Engineer,267720,upper,USD,267720,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,267720,upper,USD,267720,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,267720,upper,USD,267720,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,267720,upper,USD,267720,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,267720,upper,USD,267720,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,267720,upper,USD,267720,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,267720,upper,USD,267720,US,0,US,M
+2024,female,EX,FT,Head of Data,267500,upper,USD,267500,US,0,US,M
+2024,female,MI,FT,Data Science Manager,267100,upper,USD,267100,US,0,US,M
+2023,female,SE,FT,Data Scientist,267100,upper,USD,267100,US,100,US,M
+2023,female,SE,FT,Data Scientist,267100,upper,USD,267100,US,100,US,M
+2023,female,SE,FT,Analytics Engineer,267000,upper,USD,267000,US,0,US,M
+2024,male,SE,FT,Data Engineer,266875,upper,USD,266875,US,0,US,M
+2024,female,SE,FT,Data Scientist,266875,upper,USD,266875,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,266875,upper,USD,266875,US,0,US,M
+2023,male,SE,FT,Data Engineer,266875,upper,USD,266875,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,266500,upper,USD,266500,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,266500,upper,USD,266500,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,266500,upper,USD,266500,CA,0,CA,M
+2024,female,SE,FT,Applied Scientist,266482,upper,USD,266482,US,0,US,M
+2023,female,SE,FT,Research Engineer,266450,upper,USD,266450,US,0,US,M
+2023,male,SE,FT,Research Engineer,266450,upper,USD,266450,US,0,US,M
+2023,female,SE,FT,Data Science Engineer,266450,upper,USD,266450,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,266400,upper,USD,266400,US,0,US,M
+2022,male,SE,FT,Data Architect,266400,upper,USD,266400,US,100,US,M
+2024,male,SE,FT,AI Architect,266000,upper,USD,266000,US,0,US,M
+2023,female,SE,FT,Data Engineer,266000,upper,USD,266000,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,266000,upper,USD,266000,US,0,US,M
+2023,male,SE,FT,Data Scientist,266000,upper,USD,266000,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,265800,upper,USD,265800,US,100,US,M
+2023,female,EX,FT,Data Engineer,265800,upper,USD,265800,US,100,US,M
+2024,male,SE,FT,Data Engineer,265200,upper,USD,265200,US,0,US,M
+2024,male,EX,FT,Machine Learning Engineer,265000,upper,USD,265000,US,0,US,M
+2023,female,SE,FT,Data Scientist,265000,upper,USD,265000,US,100,US,M
+2023,female,SE,FT,Data Scientist,265000,upper,USD,265000,US,100,US,M
+2023,female,SE,FT,Data Scientist,265000,upper,USD,265000,US,100,US,M
+2023,female,SE,FT,Data Engineer,265000,upper,USD,265000,US,100,US,M
+2023,male,EX,FT,Data Engineer,265000,upper,USD,265000,US,0,US,M
+2023,female,SE,FT,Data Engineer,265000,upper,USD,265000,US,0,US,M
+2023,male,SE,FT,Data Engineer,265000,upper,USD,265000,US,100,US,M
+2023,female,SE,FT,Data Scientist,264846,upper,USD,264846,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,264400,upper,USD,264400,US,100,US,M
+2024,male,SE,FT,Machine Learning Engineer,263500,upper,USD,263500,US,100,US,M
+2023,male,SE,FT,Machine Learning Engineer,263500,upper,USD,263500,US,100,US,M
+2023,female,SE,FT,Data Architect,263100,upper,USD,263100,US,0,US,M
+2024,female,MI,FT,Business Intelligence Manager,263000,upper,USD,263000,US,0,US,M
+2024,female,EX,FT,Head of Data,263000,upper,USD,263000,US,0,US,M
+2023,female,SE,FT,Applied Scientist,262500,upper,USD,262500,US,0,US,L
+2024,male,SE,FT,ML Engineer,262269,upper,USD,262269,US,100,US,M
+2023,female,SE,FT,ML Engineer,262269,upper,USD,262269,US,100,US,M
+2023,female,SE,FT,Machine Learning Engineer,262000,upper,USD,262000,US,0,US,M
+2023,male,SE,FT,Data Scientist,262000,upper,USD,262000,US,100,US,M
+2023,male,SE,FT,Machine Learning Engineer,262000,upper,USD,262000,US,0,US,M
+2023,male,SE,FT,Data Scientist,262000,upper,USD,262000,US,100,US,M
+2023,male,SE,FT,Research Engineer,261500,upper,USD,261500,US,0,US,L
+2023,female,SE,FT,Machine Learning Engineer,261500,upper,USD,261500,US,0,US,L
+2023,female,SE,FT,Machine Learning Engineer,261500,upper,USD,261500,US,0,US,L
+2024,male,SE,FT,Data Science,261050,upper,USD,261050,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,260800,upper,USD,260800,US,0,US,M
+2023,male,MI,FT,Data Scientist,260600,upper,USD,260600,US,0,US,M
+2022,female,EX,FT,Data Science Manager,260500,upper,USD,260500,US,0,US,M
+2024,male,EN,FT,Machine Learning Engineer,260100,upper,USD,260100,US,100,US,M
+2024,male,MI,FT,Machine Learning Engineer,260100,upper,USD,260100,US,100,US,M
+2024,male,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2024,female,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2024,female,SE,FT,Machine Learning Engineer,260000,upper,USD,260000,US,0,US,M
+2024,female,MI,FT,Data Scientist,260000,upper,USD,260000,US,0,US,M
+2024,male,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2024,female,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2024,female,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2024,female,SE,FT,Business Intelligence,260000,upper,USD,260000,US,0,US,M
+2024,male,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2024,female,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2024,female,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2024,male,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2024,female,EX,FT,Managing Director Data Science,260000,upper,USD,260000,US,50,US,L
+2024,female,SE,FT,Data Engineer,260000,upper,USD,260000,US,0,US,M
+2024,male,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,male,SE,FT,Research Scientist,260000,upper,USD,260000,US,0,US,M
+2023,female,SE,FT,Data Scientist,260000,upper,USD,260000,US,0,US,M
+2023,female,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,male,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,male,MI,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,female,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,male,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,male,SE,FT,Machine Learning Engineer,260000,upper,USD,260000,US,0,US,M
+2023,male,MI,FT,Machine Learning Engineer,260000,upper,USD,260000,US,0,US,M
+2023,male,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,female,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,male,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,female,SE,FT,Machine Learning Engineer,260000,upper,USD,260000,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,260000,upper,USD,260000,US,0,US,M
+2023,female,SE,FT,Machine Learning Infrastructure Engineer,260000,upper,USD,260000,US,100,US,M
+2023,female,SE,FT,AI Developer,260000,upper,USD,260000,US,0,US,M
+2023,female,SE,FT,Data Scientist,260000,upper,USD,260000,US,0,US,M
+2023,female,SE,FT,Data Engineer,260000,upper,USD,260000,US,0,US,M
+2023,female,SE,FT,Analytics Engineer,260000,upper,USD,260000,US,0,US,M
+2023,male,SE,FT,ML Engineer,260000,upper,USD,260000,US,100,US,M
+2023,female,SE,FT,Analytics Engineer,260000,upper,USD,260000,US,0,US,M
+2023,female,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,male,SE,FT,Machine Learning Engineer,260000,upper,USD,260000,US,0,US,M
+2023,female,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,female,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,male,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,male,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,female,SE,FT,Data Engineer,260000,upper,USD,260000,US,0,US,M
+2023,female,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,female,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,male,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,male,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,male,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,female,EX,FT,Director of Data Science,260000,upper,USD,260000,US,100,US,M
+2023,female,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,female,MI,FT,ML Engineer,260000,upper,USD,260000,AU,0,AU,M
+2023,female,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,male,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,female,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,male,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,female,MI,FT,Data Engineer,260000,upper,USD,260000,US,0,US,M
+2023,male,SE,FT,Data Engineer,260000,upper,USD,260000,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,260000,upper,USD,260000,US,100,US,M
+2023,male,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,female,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,female,SE,FT,Applied Scientist,260000,upper,USD,260000,US,0,US,L
+2023,female,SE,FT,Data Engineer,260000,upper,USD,260000,US,0,US,M
+2023,female,SE,FT,ML Engineer,260000,upper,USD,260000,CA,100,CA,M
+2023,male,MI,FT,Data Engineer,260000,upper,USD,260000,US,0,US,M
+2023,male,SE,FT,Data Scientist,260000,upper,USD,260000,US,0,US,M
+2022,male,MI,FT,Data Engineer,260000,upper,USD,260000,US,0,US,M
+2022,female,SE,FT,Data Engineer,260000,upper,USD,260000,US,0,US,M
+2022,female,EX,FT,Data Engineer,260000,upper,USD,260000,US,100,US,M
+2022,female,SE,FT,Data Scientist,260000,upper,USD,260000,US,100,US,M
+2020,female,SE,FT,Machine Learning Scientist,260000,upper,USD,260000,JP,0,JP,S
+2024,female,SE,FT,Analytics Engineer,259900,upper,USD,259900,CA,100,CA,M
+2023,female,SE,FT,Business Intelligence Specialist,259900,upper,USD,259900,US,0,US,M
+2024,male,EX,FT,Machine Learning Engineer,259850,upper,USD,259850,US,0,US,M
+2024,male,SE,FT,Data Engineer,259700,upper,USD,259700,US,100,US,M
+2023,female,SE,FT,Data Engineer,259000,upper,USD,259000,US,0,US,M
+2023,male,SE,FT,Business Intelligence Engineer,259000,upper,USD,259000,US,0,US,M
+2023,male,SE,FT,Data Engineer,259000,upper,USD,259000,US,100,US,M
+2023,male,SE,FT,Data Engineer,259000,upper,USD,259000,US,100,US,M
+2023,male,SE,FT,Data Engineer,258900,upper,USD,258900,US,100,US,M
+2024,male,SE,FT,Machine Learning Engineer,258800,upper,USD,258800,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,258800,upper,USD,258800,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,258800,upper,USD,258800,US,0,US,M
+2023,male,SE,FT,Applied Scientist,258800,upper,USD,258800,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,258800,upper,USD,258800,GB,0,GB,M
+2023,female,SE,FT,Machine Learning Engineer,258800,upper,USD,258800,GB,0,GB,M
+2023,female,SE,FT,Machine Learning Engineer,258800,upper,USD,258800,GB,0,GB,M
+2023,male,SE,FT,Data Engineer,258750,upper,USD,258750,US,100,US,M
+2023,female,EX,FT,Data Scientist,258750,upper,USD,258750,US,0,US,M
+2023,female,EX,FT,Data Scientist,258750,upper,USD,258750,US,0,US,M
+2024,male,SE,FT,Data Science,258720,upper,USD,258720,US,0,US,M
+2023,male,SE,FT,Data Modeler,258700,upper,USD,258700,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,258700,upper,USD,258700,US,0,US,M
+2023,female,SE,FT,Data Scientist,258700,upper,USD,258700,US,0,US,M
+2023,female,SE,FT,Data Scientist,258700,upper,USD,258700,US,0,US,M
+2023,male,MI,FT,Machine Learning Engineer,258700,upper,USD,258700,US,0,US,M
+2023,female,SE,FT,Data Scientist,258700,upper,USD,258700,US,0,US,M
+2023,male,SE,FT,Data Scientist,258700,upper,USD,258700,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,258600,upper,USD,258600,US,100,US,M
+2024,male,EX,FT,Data Engineer,258500,upper,USD,258500,US,0,US,M
+2024,male,SE,FT,Data Engineer,258500,upper,USD,258500,US,0,US,M
+2023,male,SE,FT,Head of Data,258500,upper,USD,258500,US,100,US,M
+2024,female,SE,FT,Machine Learning Engineer,258450,upper,USD,258450,US,0,US,M
+2023,male,SE,FT,Machine Learning Engineer,258384,upper,USD,258384,US,100,US,M
+2024,female,SE,FT,Research Scientist,258100,upper,USD,258100,US,0,US,M
+2024,female,SE,FT,Research Scientist,258100,upper,USD,258100,US,0,US,M
+2024,female,SE,FT,Machine Learning Engineer,258100,upper,USD,258100,US,0,US,M
+2024,female,MI,FT,Data Science Manager,258000,upper,USD,258000,US,0,US,M
+2023,female,SE,FT,Data Scientist,258000,upper,USD,258000,US,0,US,M
+2023,male,SE,FT,Data Scientist,258000,upper,USD,258000,US,0,US,M
+2023,male,SE,FT,Data Scientist,258000,upper,USD,258000,US,0,US,M
+2023,male,SE,FT,Data Scientist,258000,upper,USD,258000,US,0,US,M
+2023,male,SE,FT,Data Scientist,258000,upper,USD,258000,CA,0,CA,M
+2023,male,MI,FT,Data Engineer,258000,upper,USD,258000,US,0,US,M
+2023,male,SE,FT,Data Scientist,258000,upper,USD,258000,CA,0,CA,M
+2023,male,MI,FT,AWS Data Architect,258000,upper,USD,258000,US,100,US,L
+2023,male,SE,FT,Data Scientist,258000,upper,USD,258000,CA,0,CA,M
+2023,female,SE,FT,Data Scientist,258000,upper,USD,258000,CA,0,CA,M
+2024,male,SE,FT,Data Architect,257600,upper,USD,257600,US,0,US,M
+2024,female,EN,FT,Research Engineer,257400,upper,USD,257400,US,0,US,M
+2023,male,SE,FT,Applied Scientist,257400,upper,USD,257400,US,0,US,M
+2023,male,MI,FT,Research Engineer,257400,upper,USD,257400,US,0,US,M
+2023,male,MI,FT,Research Engineer,257400,upper,USD,257400,US,0,US,M
+2023,female,EX,FT,Data Engineer,257400,upper,USD,257400,US,100,US,M
+2024,female,SE,FT,AI Architect,257250,upper,USD,257250,US,100,US,M
+2024,female,SE,FT,Machine Learning Engineer,257000,upper,USD,257000,US,0,US,M
+2023,male,SE,FT,Data Scientist,257000,upper,USD,257000,US,100,US,M
+2023,male,SE,FT,Machine Learning Engineer,257000,upper,USD,257000,US,0,US,M
+2023,male,SE,FT,Data Scientist,257000,upper,USD,257000,US,0,US,M
+2024,female,SE,FT,Applied Scientist,256100,upper,USD,256100,US,0,US,M
+2023,female,SE,FT,Data Scientist,256000,upper,USD,256000,US,100,US,M
+2021,female,SE,FT,ML Engineer,256000,upper,USD,256000,US,100,US,S
+2024,male,SE,FT,Machine Learning Engineer,255800,upper,USD,255800,US,0,US,M
+2024,female,SE,FT,Machine Learning Engineer,255800,upper,USD,255800,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,255800,upper,USD,255800,US,0,US,M
+2024,female,SE,FT,Machine Learning Engineer,255800,upper,USD,255800,US,0,US,M
+2024,female,SE,FT,Machine Learning Engineer,255800,upper,USD,255800,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,255800,upper,USD,255800,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,255800,upper,USD,255800,US,0,US,M
+2024,male,SE,FT,Machine Learning Engineer,255800,upper,USD,255800,US,0,US,M
+2024,female,SE,FT,Data Engineer,255800,upper,USD,255800,US,0,US,M
+2023,female,SE,FT,Machine Learning Engineer,255800,upper,USD,255800,US,0,US,M
+2024,male,SE,FT,Data Engineer,255475,upper,USD,255475,US,100,US,M
+2024,female,SE,FT,Data Scientist,255475,upper,USD,255475,US,100,US,M

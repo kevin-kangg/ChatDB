@@ -139,7 +139,7 @@ streamlit run frontendv7.1.py
 
 2. Click the "Browse files" button:
 
-![Image 4](images/image_4.png)
+<!-- ![Image 4](images/image_4.png) -->
 
 3. Choose a data set that has a ".csv" suffix and click "Upload" (or similar on other systems). For this example, 'loan.csv' is selected:
 

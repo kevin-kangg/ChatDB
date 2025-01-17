@@ -38,7 +38,7 @@ This project assumes that the Python environment is set up according to:
    pip install \-r /path/to/requirements.txt  
 3. NOTE: The packages that are most important to replicate this project are validated using this command
 
-![Image 1](images/image_1.png)
+<img src="images/image_1.png" alt="Image 1" width="500"/>
 
 ## Database Configuration
 
